@@ -1,0 +1,9 @@
+html, body, #vizContainer{
+  /* height:100%; */
+}
+
+
+#vizContainer {
+  height: 800px;
+  width: 800px;
+}
